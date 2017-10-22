@@ -1,0 +1,10 @@
+base
+dplyr
+tidyr
+ggplot2
+leaflet
+leaflet.extras
+gridExtra
+scales
+sp
+rworldmap
